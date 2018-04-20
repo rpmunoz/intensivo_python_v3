@@ -7,13 +7,15 @@
 -- 
 -- Comunas
 --
+USE intensivopython;
+
 DROP TABLE IF EXISTS `comunas`;
 CREATE TABLE `comunas` (
   `comuna_id` int(11) NOT NULL AUTO_INCREMENT,
   `comuna_nombre` varchar(64) NOT NULL,
   `provincia_id` int(11) NOT NULL,
   PRIMARY KEY (`comuna_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=346 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=346 DEFAULT CHARSET=utf8;
 
 INSERT INTO `comunas` (`comuna_id`,`comuna_nombre`,`provincia_id`)
 VALUES
@@ -373,7 +375,7 @@ CREATE TABLE `provincias` (
   `provincia_nombre` varchar(64) NOT NULL,
   `region_id` int(11) NOT NULL,
   PRIMARY KEY (`provincia_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=54 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=54 DEFAULT CHARSET=utf8;
 
 INSERT INTO `provincias` (`provincia_id`,`provincia_nombre`,`region_id`)
 VALUES
@@ -441,7 +443,7 @@ CREATE TABLE `regiones` (
   `region_nombre` varchar(64) NOT NULL,
   `region_ordinal` varchar(4) NOT NULL,
   PRIMARY KEY (`region_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
 
 INSERT INTO `regiones` (`region_id`,`region_nombre`,`region_ordinal`)
 VALUES
