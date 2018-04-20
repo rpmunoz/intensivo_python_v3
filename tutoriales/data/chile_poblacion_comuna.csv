@@ -1,0 +1,347 @@
+comuna_nombre,region_nombre,provincia_nombre,poblacion_1992,poblacion_2002,poblacion_2017
+Antofagasta,Antofagasta,Antofagasta,227065,289477,361873
+Calama,Antofagasta,El Loa,121827,137144,165731
+Tocopilla,Antofagasta,Tocopilla,25119,23968,25186
+Mejillones,Antofagasta,Antofagasta,5886,8034,13467
+Taltal,Antofagasta,Antofagasta,10926,10307,13317
+San Pedro de Atacama,Antofagasta,El Loa,2670,4025,10996
+Sierra Gorda,Antofagasta,Antofagasta,1183,1234,10186
+María Elena,Antofagasta,Tocopilla,13765,7456,6457
+Ollagüe,Antofagasta,El Loa,433,286,321
+Temuco,La Araucanía,Cautín,198294,246349,282415
+Padre Las Casas,La Araucanía,Cautín,45756,58207,76126
+Villarrica,La Araucanía,Cautín,35664,45436,55478
+Angol,La Araucanía,Malleco,45951,48548,53262
+Lautaro,La Araucanía,Cautín,29147,32201,38013
+Victoria,La Araucanía,Malleco,32830,33552,34182
+Nueva Imperial,La Araucanía,Cautín,27731,29793,32510
+Pucón,La Araucanía,Cautín,14097,20635,28523
+Vilcún,La Araucanía,Cautín,20667,22348,28151
+Pitrufquén,La Araucanía,Cautín,19643,21840,24837
+Freire,La Araucanía,Cautín,22984,25163,24606
+Collipulli,La Araucanía,Malleco,22699,22381,24598
+Carahue,La Araucanía,Cautín,25342,25575,24533
+Loncoche,La Araucanía,Cautín,23485,23201,23612
+Traiguén,La Araucanía,Malleco,20451,19179,18843
+Cunco,La Araucanía,Cautín,18116,18800,17526
+Curacautín,La Araucanía,Malleco,17892,16861,17413
+Teodoro Schmidt,La Araucanía,Cautín,14325,15323,15045
+Gorbea,La Araucanía,Cautín,14655,15215,14414
+Saavedra,La Araucanía,Cautín,14258,13995,12450
+Galvarino,La Araucanía,Cautín,14102,12635,11996
+Purén,La Araucanía,Malleco,13952,12965,11779
+Cholchol,La Araucanía,Cautín,8838,9854,11611
+Lonquimay,La Araucanía,Malleco,8937,10014,10251
+Renaico,La Araucanía,Malleco,9108,9206,10250
+Toltén,La Araucanía,Cautín,11916,11201,9722
+Lumaco,La Araucanía,Malleco,12221,11335,9548
+Ercilla,La Araucanía,Malleco,8739,9131,7733
+Curarrehue,La Araucanía,Cautín,5864,6802,7489
+Los Sauces,La Araucanía,Malleco,9004,7603,7265
+Perquenco,La Araucanía,Cautín,5853,6425,6905
+Melipeuco,La Araucanía,Cautín,5267,5578,6138
+Arica,Arica y Parinacota,Arica,168633,184914,221364
+Putre,Arica y Parinacota,Parinacota,2417,1671,2765
+Camarones,Arica y Parinacota,Arica,729,999,1255
+General Lagos,Arica y Parinacota,Parinacota,890,879,684
+Copiapó,Atacama,Copiapó,100426,129279,153937
+Vallenar,Atacama,Huasco,47267,48369,51917
+Caldera,Atacama,Copiapó,11673,13305,17662
+Tierra Amarilla,Atacama,Copiapó,11269,12266,14019
+Diego de Almagro,Atacama,Chañaral,27462,18227,13925
+Chañaral,Atacama,Chañaral,13856,13303,12219
+Huasco,Atacama,Huasco,7311,7952,10149
+Freirina,Atacama,Huasco,5222,5809,7041
+Alto del Carmen,Atacama,Huasco,4668,4695,5299
+Coyhaique,Aysén del General Carlos Ibáñez del Campo,Coyhaique,42952,49489,57818
+Aysén,Aysén del General Carlos Ibáñez del Campo,Aysén,18885,22111,23959
+Cisnes,Aysén del General Carlos Ibáñez del Campo,Aysén,4469,5321,6517
+Chile Chico,Aysén del General Carlos Ibáñez del Campo,General Carrera,3752,4435,4865
+Cochrane,Aysén del General Carlos Ibáñez del Campo,Capitán Prat,2728,2895,3490
+Río Ibáñez,Aysén del General Carlos Ibáñez del Campo,General Carrera,2857,2458,2666
+Guaitecas,Aysén del General Carlos Ibáñez del Campo,Aysén,1243,1429,1843
+Lago Verde,Aysén del General Carlos Ibáñez del Campo,Coyhaique,1032,956,852
+O'Higgins,Aysén del General Carlos Ibáñez del Campo,Capitán Prat,308,457,625
+Tortel,Aysén del General Carlos Ibáñez del Campo,Capitán Prat,440,435,523
+Concepción,Biobío,Concepción,208095,217322,223574
+Los Ángeles,Biobío,Biobío,140435,166332,202331
+Chillán,Biobío,Ñuble,148693,161961,184739
+Talcahuano,Biobío,Concepción,155937,163995,151749
+San Pedro de la Paz,Biobío,Concepción,66465,79714,131808
+Coronel,Biobío,Concepción,83402,95482,116262
+Hualpén,Biobío,Concepción,90630,85444,91773
+Chiguayante,Biobío,Concepción,55574,81411,85938
+Tomé,Biobío,Concepción,49354,52654,54946
+San Carlos,Biobío,Ñuble,48221,50012,53024
+Penco,Biobío,Concepción,40444,45849,47367
+Lota,Biobío,Concepción,50676,49387,43535
+Arauco,Biobío,Arauco,29736,34790,36257
+Cañete,Biobío,Arauco,29026,31463,34537
+Curanilahue,Biobío,Arauco,33669,31948,32288
+Chillán Viejo,Biobío,Ñuble,16311,21829,30907
+Mulchén,Biobío,Biobío,30024,29060,29627
+Cabrero,Biobío,Biobío,21496,25229,28573
+Coihueco,Biobío,Ñuble,22586,23552,26881
+Nacimiento,Biobío,Biobío,25908,25949,26315
+Lebu,Biobío,Arauco,24771,25013,25522
+Hualqui,Biobío,Concepción,16277,18887,24333
+Laja,Biobío,Biobío,24347,22372,22389
+Bulnes,Biobío,Ñuble,19638,20567,21493
+Yumbel,Biobío,Biobío,20469,20454,21198
+Los Álamos,Biobío,Arauco,16886,18535,21035
+Yungay,Biobío,Ñuble,15172,16674,17787
+Quillón,Biobío,Ñuble,14361,15023,17485
+San Ignacio,Biobío,Ñuble,16395,16084,16079
+Coelemu,Biobío,Ñuble,16602,16024,15995
+Tucapel,Biobío,Biobío,11989,12746,14134
+Santa Bárbara,Biobío,Biobío,11993,13073,13773
+Santa Juana,Biobío,Concepción,11989,12708,13749
+El Carmen,Biobío,Ñuble,14071,12780,12044
+San Nicolás,Biobío,Ñuble,9332,9596,11603
+Quirihue,Biobío,Ñuble,11101,11388,11594
+Ñiquén,Biobío,Ñuble,12923,11417,11152
+Pinto,Biobío,Ñuble,8874,9767,10827
+Florida,Biobío,Concepción,10379,10889,10624
+Tirúa,Biobío,Arauco,8663,9646,10417
+Negrete,Biobío,Biobío,8303,8588,9737
+Quilleco,Biobío,Biobío,10466,10327,9587
+Pemuco,Biobío,Ñuble,8494,8788,8448
+Contulmo,Biobío,Arauco,6739,5809,6031
+Alto Biobío,Biobío,Biobío,5277,6189,5923
+Ránquil,Biobío,Ñuble,6162,5657,5755
+Treguaco,Biobío,Ñuble,5663,5120,5401
+Ninhue,Biobío,Ñuble,6390,5737,5213
+Cobquecura,Biobío,Ñuble,6285,5579,5012
+Portezuelo,Biobío,Ñuble,5904,5362,4862
+San Fabián,Biobío,Ñuble,3752,3522,4308
+Antuco,Biobío,Biobío,4106,3880,4073
+Quilaco,Biobío,Biobío,4407,3991,3988
+San Rosendo,Biobío,Biobío,4347,3971,3412
+Coquimbo,Coquimbo,Elqui,121892,163557,227730
+La Serena,Coquimbo,Elqui,120433,161243,221054
+Ovalle,Coquimbo,Limarí,84787,98368,111272
+Illapel,Coquimbo,Choapa,29069,30397,30848
+Monte Patria,Coquimbo,Limarí,28549,30247,30751
+Salamanca,Coquimbo,Choapa,22463,23034,29347
+Vicuña,Coquimbo,Elqui,21303,23665,27771
+Los Vilos,Coquimbo,Choapa,15271,17072,21382
+Combarbalá,Coquimbo,Limarí,14391,13531,13322
+Andacollo,Coquimbo,Elqui,12272,10411,11044
+Punitaqui,Coquimbo,Limarí,8793,9553,10956
+Canela,Coquimbo,Choapa,10319,9420,9093
+Paihuano,Coquimbo,Elqui,3744,4205,4497
+Río Hurtado,Coquimbo,Limarí,5133,4770,4278
+La Higuera,Coquimbo,Elqui,3376,3660,4241
+Puerto Montt,Los Lagos,Llanquihue,128811,174038,245902
+Osorno,Los Lagos,Osorno,169713,145302,161460
+Puerto Varas,Los Lagos,Llanquihue,26102,32503,44578
+Castro,Los Lagos,Chiloé,29896,39351,43807
+Ancud,Los Lagos,Chiloé,37577,39762,38991
+Calbuco,Los Lagos,Llanquihue,27214,31023,33985
+Quellón,Los Lagos,Chiloé,15093,21556,27192
+Purranque,Los Lagos,Osorno,20129,20814,20369
+Frutillar,Los Lagos,Llanquihue,12916,15135,18428
+Llanquihue,Los Lagos,Llanquihue,14699,16504,17591
+Los Muermos,Los Lagos,Llanquihue,16878,16772,17068
+Chonchi,Los Lagos,Chiloé,10640,12483,14858
+Maullín,Los Lagos,Llanquihue,17070,15621,14216
+Río Negro,Los Lagos,Osorno,15927,14732,14085
+Dalcahue,Los Lagos,Chiloé,7780,10679,13762
+Fresia,Los Lagos,Llanquihue,12969,12620,12261
+Puyehue,Los Lagos,Osorno,10934,10829,11667
+San Pablo,Los Lagos,Osorno,11078,10137,10030
+Puerto Octay,Los Lagos,Osorno,10778,10171,8999
+Hualaihué,Los Lagos,Palena,7872,8210,8944
+Quemchi,Los Lagos,Chiloé,8180,8553,8352
+Quinchao,Los Lagos,Chiloé,9112,8932,8088
+San Juan de la Costa,Los Lagos,Osorno,9587,8782,7512
+Queilén,Los Lagos,Chiloé,4999,5145,5385
+Chaitén,Los Lagos,Palena,7006,7062,5071
+Cochamó,Los Lagos,Llanquihue,4346,4323,4023
+Puqueldón,Los Lagos,Chiloé,4258,4124,3921
+Curaco de Vélez,Los Lagos,Chiloé,3012,3379,3829
+Futaleufú,Los Lagos,Palena,1737,1822,2623
+Palena,Los Lagos,Palena,1886,1675,1711
+Valdivia,Los Ríos,Valdivia,122251,140520,166080
+La Unión,Los Ríos,Ranco,38770,38690,38036
+Panguipulli,Los Ríos,Valdivia,30053,32912,34539
+Río Bueno,Los Ríos,Ranco,32893,32903,31372
+Mariquina,Los Ríos,Valdivia,17578,17955,21278
+Paillaco,Los Ríos,Valdivia,18142,19107,20188
+Los Lagos,Los Ríos,Valdivia,18373,20117,19634
+Lanco,Los Ríos,Valdivia,13434,14666,16752
+Futrono,Los Ríos,Ranco,13755,14899,14665
+Lago Ranco,Los Ríos,Ranco,10370,10034,9896
+Máfil,Los Ríos,Valdivia,7127,7147,7095
+Corral,Los Ríos,Valdivia,5733,5321,5302
+Punta Arenas,Magallanes y de la Antártica Chilena,Magallanes,113820,118241,131592
+Natales,Magallanes y de la Antártica Chilena,Última Esperanza,17155,18823,21477
+Porvenir,Magallanes y de la Antártica Chilena,Tierra del Fuego,5014,4891,6801
+Cabo de Hornos,Magallanes y de la Antártica Chilena,Antártica Chilena,1616,2176,2063
+Torres del Paine,Magallanes y de la Antártica Chilena,Última Esperanza,382,494,1209
+Primavera,Magallanes y de la Antártica Chilena,Tierra del Fuego,1479,789,1158
+San Gregorio,Magallanes y de la Antártica Chilena,Magallanes,1251,834,799
+Río Verde,Magallanes y de la Antártica Chilena,Magallanes,311,278,617
+Timaukel,Magallanes y de la Antártica Chilena,Tierra del Fuego,251,377,405
+Laguna Blanca,Magallanes y de la Antártica Chilena,Magallanes,426,603,274
+Antártica,Magallanes y de la Antártica Chilena,Antártica Chilena,,,138
+Talca,Maule,Talca,171812,201707,220357
+Curicó,Maule,Curicó,103310,119395,149136
+Linares,Maule,Linares,77286,83396,93602
+Maule,Maule,Talca,13787,16784,49721
+Constitución,Maule,Talca,40368,46293,46068
+Molina,Maule,Curicó,35197,38163,45976
+San Javier,Maule,Linares,35395,37878,45547
+San Clemente,Maule,Talca,36363,37481,43269
+Parral,Maule,Linares,37999,37698,41637
+Cauquenes,Maule,Cauquenes,40176,41227,40441
+Longaví,Maule,Linares,27806,27856,30534
+Teno,Maule,Curicó,23538,25367,28921
+Colbún,Maule,Linares,16851,17618,20765
+Retiro,Maule,Linares,19539,18327,19974
+Sagrada Familia,Maule,Curicó,16698,17381,18544
+Yerbas Buenas,Maule,Linares,15448,15960,18081
+Villa Alegre,Maule,Linares,15106,14628,16221
+Romeral,Maule,Curicó,11263,12474,15187
+Río Claro,Maule,Talca,12490,12568,13906
+Rauco,Maule,Curicó,7689,8605,10484
+Hualañe,Maule,Curicó,9315,9720,9657
+Curepto,Maule,Talca,12276,10712,9448
+San Rafael,Maule,Talca,7052,7631,9191
+Chanco,Maule,Cauquenes,9504,9423,8928
+Pelarco,Maule,Talca,7740,7270,8422
+Pencahue,Maule,Talca,7690,7984,8245
+Pelluhue,Maule,Cauquenes,8739,9131,7571
+Licantén,Maule,Curicó,6047,6732,6653
+Vichuquén,Maule,Curicó,4880,4786,4322
+Empedrado,Maule,Talca,4494,4203,4142
+Puente Alto,Metropolitana de Santiago,Cordillera,251283,491222,568106
+Maipú,Metropolitana de Santiago,Santiago,255243,467861,521627
+Santiago,Metropolitana de Santiago,Santiago,236453,214159,404495
+La Florida,Metropolitana de Santiago,Santiago,327402,364602,366916
+San Bernardo,Metropolitana de Santiago,Maipo,190078,246865,301313
+Las Condes,Metropolitana de Santiago,Santiago,205359,246474,294838
+Peñalolén,Metropolitana de Santiago,Santiago,178889,216040,241599
+Pudahuel,Metropolitana de Santiago,Santiago,137861,195185,230293
+Quilicura,Metropolitana de Santiago,Santiago,41124,126326,210410
+Ñuñoa,Metropolitana de Santiago,Santiago,170093,162481,208237
+La Pintana,Metropolitana de Santiago,Santiago,169545,190270,177335
+El Bosque,Metropolitana de Santiago,Santiago,169713,175212,162505
+Recoleta,Metropolitana de Santiago,Santiago,162188,147279,157851
+Renca,Metropolitana de Santiago,Santiago,129132,133513,147151
+Estación Central,Metropolitana de Santiago,Santiago,138314,126066,147041
+Colina,Metropolitana de Santiago,Chacabuco,66465,76714,146207
+Providencia,Metropolitana de Santiago,Santiago,106770,117020,142079
+Cerro Navia,Metropolitana de Santiago,Santiago,155425,148454,132622
+Conchalí,Metropolitana de Santiago,Santiago,154909,132831,126955
+Melipilla,Metropolitana de Santiago,Melipilla,80303,93850,123627
+La Granja,Metropolitana de Santiago,Santiago,133463,132832,116571
+Macul,Metropolitana de Santiago,Santiago,119859,111914,116534
+Quinta Normal,Metropolitana de Santiago,Santiago,115977,103767,110026
+San Miguel,Metropolitana de Santiago,Santiago,83227,77914,107954
+Lo Barnechea,Metropolitana de Santiago,Santiago,46444,73931,105833
+Lampa,Metropolitana de Santiago,Chacabuco,24770,40074,102034
+Pedro Aguirre Cerda,Metropolitana de Santiago,Santiago,128459,114400,101174
+Independencia,Metropolitana de Santiago,Santiago,75856,64513,100281
+Lo Espejo,Metropolitana de Santiago,Santiago,119061,113039,98804
+Huechuraba,Metropolitana de Santiago,Santiago,61169,73941,98671
+Buin,Metropolitana de Santiago,Maipo,52185,62986,96614
+Lo Prado,Metropolitana de Santiago,Santiago,110396,104411,96249
+San Joaquín,Metropolitana de Santiago,Santiago,113140,96539,94492
+La Reina,Metropolitana de Santiago,Santiago,91847,96434,92787
+Peñaflor,Metropolitana de Santiago,Talagante,50018,66508,90201
+La Cisterna,Metropolitana de Santiago,Santiago,96417,85030,90119
+Vitacura,Metropolitana de Santiago,Santiago,77343,80389,85384
+San Ramón,Metropolitana de Santiago,Santiago,100592,94619,82900
+Cerrillos,Metropolitana de Santiago,Santiago,71745,71602,80832
+Talagante,Metropolitana de Santiago,Talagante,44686,59549,74237
+Paine,Metropolitana de Santiago,Maipo,37172,49498,72759
+Padre Hurtado,Metropolitana de Santiago,Talagante,28796,38517,63250
+Isla de Maipo,Metropolitana de Santiago,Talagante,20156,25638,36219
+El Monte,Metropolitana de Santiago,Talagante,21775,26577,35923
+Curacaví,Metropolitana de Santiago,Melipilla,19046,24044,32579
+Pirque,Metropolitana de Santiago,Cordillera,11313,16448,26521
+Calera de Tango,Metropolitana de Santiago,Maipo,11810,18138,25392
+Tiltil,Metropolitana de Santiago,Chacabuco,12647,14603,19312
+San José de Maipo,Metropolitana de Santiago,Cordillera,11421,12822,18189
+María Pinto,Metropolitana de Santiago,Melipilla,8644,10261,13590
+San Pedro,Metropolitana de Santiago,Melipilla,6762,8069,9726
+Alhué,Metropolitana de Santiago,Melipilla,3973,4389,6444
+Rancagua,Libertador General Bernardo O'Higgins,Cachapoal,187476,213850,241774
+San Fernando,Libertador General Bernardo O'Higgins,Colchagua,56003,63665,73973
+Rengo,Libertador General Bernardo O'Higgins,Cachapoal,43148,50560,58825
+Machali,Libertador General Bernardo O'Higgins,Cachapoal,22967,28473,52505
+San Vicente,Libertador General Bernardo O'Higgins,Cachapoal,34988,40108,46766
+Santa Cruz,Libertador General Bernardo O'Higgins,Colchagua,29005,32329,37855
+Chimbarongo,Libertador General Bernardo O'Higgins,Colchagua,30292,32180,35399
+Graneros,Libertador General Bernardo O'Higgins,Cachapoal,22161,25734,33437
+Requinoa,Libertador General Bernardo O'Higgins,Cachapoal,18996,21973,27968
+Mostazal,Libertador General Bernardo O'Higgins,Cachapoal,18143,21266,25343
+Las Cabras,Libertador General Bernardo O'Higgins,Cachapoal,17502,19982,24640
+Doñihue,Libertador General Bernardo O'Higgins,Cachapoal,14571,16968,20887
+Pichidegua,Libertador General Bernardo O'Higgins,Cachapoal,16560,17581,19714
+Coltauco,Libertador General Bernardo O'Higgins,Cachapoal,14864,16188,19597
+Nancagua,Libertador General Bernardo O'Higgins,Colchagua,14316,15604,17833
+Pichilemu,Libertador General Bernardo O'Higgins,Cardenal Caro,10463,12151,16394
+Chepica,Libertador General Bernardo O'Higgins,Colchagua,14047,13939,15037
+Peumo,Libertador General Bernardo O'Higgins,Cachapoal,12762,13902,14313
+Olivar,Libertador General Bernardo O'Higgins,Cachapoal,10712,12189,13608
+Malloa,Libertador General Bernardo O'Higgins,Cachapoal,12134,12867,13407
+Quinta de Tilcoco,Libertador General Bernardo O'Higgins,Cachapoal,10688,11328,13002
+Codegua,Libertador General Bernardo O'Higgins,Cachapoal,9269,10632,12988
+Palmilla,Libertador General Bernardo O'Higgins,Colchagua,10750,11163,12482
+Peralillo,Libertador General Bernardo O'Higgins,Colchagua,9017,9735,11007
+Placilla,Libertador General Bernardo O'Higgins,Colchagua,7763,8179,8738
+Coinco,Libertador General Bernardo O'Higgins,Cachapoal,5763,6368,7359
+Marchihue,Libertador General Bernardo O'Higgins,Cardenal Caro,6137,6833,7308
+Lolol,Libertador General Bernardo O'Higgins,Colchagua,6083,6142,6811
+Navidad,Libertador General Bernardo O'Higgins,Cardenal Caro,5380,5301,6641
+Litueche,Libertador General Bernardo O'Higgins,Cardenal Caro,5440,5531,6294
+Paredones,Libertador General Bernardo O'Higgins,Cardenal Caro,6832,6656,6188
+Pumanque,Libertador General Bernardo O'Higgins,Colchagua,3732,3477,3421
+La Estrella,Libertador General Bernardo O'Higgins,Cardenal Caro,2787,3029,3041
+Iquique,Tarapacá,Iquique,144447,168397,191468
+Alto Hospicio,Tarapacá,Iquique,5511,49436,108375
+Pozo Almonte,Tarapacá,Tamarugal,6209,9407,15711
+Pica,Tarapacá,Tamarugal,2332,3498,9296
+Huara,Tarapacá,Tamarugal,1931,2522,2730
+Colchane,Tarapacá,Tamarugal,1554,1474,1728
+Camiña,Tarapacá,Tamarugal,1420,1287,1250
+Viña del Mar,Valparaíso,Valparaíso,283383,285937,334248
+Valparaíso,Valparaíso,Valparaíso,281447,274716,296655
+Quilpué,Valparaíso,Marga Marga,103563,128156,151708
+Villa Alemana,Valparaíso,Marga Marga,71204,95364,126548
+San Antonio,Valparaíso,San Antonio,77785,86723,91350
+Quillota,Valparaíso,Quillota,66761,75542,90517
+San Felipe,Valparaíso,San Felipe de Aconcagua,54281,63862,76844
+Los Andes,Valparaíso,Los Andes,48823,59319,66708
+La Calera,Valparaíso,Quillota,45849,49358,50554
+Limache,Valparaíso,Marga Marga,34706,39020,46121
+Concón,Valparaíso,Valparaíso,18306,32006,42152
+La Ligua,Valparaíso,Petorca,27187,31864,35390
+Quintero,Valparaíso,Valparaíso,17153,21015,31923
+Casablanca,Valparaíso,Valparaíso,16417,21748,26867
+Llaillay,Valparaíso,San Felipe de Aconcagua,20292,21391,24608
+Cartagena,Valparaíso,San Antonio,11510,16678,22738
+Nogales,Valparaíso,Quillota,18596,21621,22120
+La Cruz,Valparaíso,Quillota,10731,12788,22098
+Cabildo,Valparaíso,Petorca,17450,19033,19388
+San Esteban,Valparaíso,Los Andes,12083,14191,18855
+Puchuncaví,Valparaíso,Valparaíso,10025,12830,18546
+Hijuelas,Valparaíso,Quillota,13899,15955,17988
+Olmué,Valparaíso,Marga Marga,12576,13935,17516
+Putaendo,Valparaíso,San Felipe de Aconcagua,12757,14462,16754
+El Quisco,Valparaíso,San Antonio,5728,9092,15955
+Santa María,Valparaíso,San Felipe de Aconcagua,11462,12717,15241
+Calle Larga,Valparaíso,Los Andes,9662,10069,14832
+Catemu,Valparaíso,San Felipe de Aconcagua,11287,12017,13998
+Algarrobo,Valparaíso,San Antonio,5657,8292,13817
+El Tabo,Valparaíso,San Antonio,4190,6781,13286
+Santo Domingo,Valparaíso,San Antonio,5987,7166,10900
+Rinconada,Valparaíso,Los Andes,5622,6722,10207
+Petorca,Valparaíso,Petorca,9291,9475,9826
+Isla de Pascua,Valparaíso,Isla de Pascua,2767,3765,7750
+Zapallar,Valparaíso,Petorca,4368,5532,7339
+Panquehue,Valparaíso,San Felipe de Aconcagua,5961,6543,7273
+Papudo,Valparaíso,Petorca,3826,4535,6356
+Juan Fernández,Valparaíso,Valparaíso,503,621,926
